@@ -1,0 +1,110 @@
+show_id,show_cache_time,show_canonical_name,show_clips_count,show_episodes_count,show_feature_films_count,show_film_clips_count,show_genre,show_is_movie,show_is_showtime_only,show_is_subscriber_only,show_rating,show_seasons_count,show_series_id,show_type,show_videos_count,show_company_name
+54,2017-08-10T14:53:04+00:00,family-guy,288,288,0,0,Animation and Cartoons,False,False,False,4.35370739,15,11730,show,576,FOX
+6979,2017-08-10T14:14:33+00:00,south-park,3874,274,0,0,Comedy,False,False,False,4.36303207,20,50003814,show,4148,Comedy Central
+53,2017-08-10T14:46:51+00:00,american-dad,121,172,0,0,Comedy,False,False,False,4.114006824,9,379,show,293,Fox Television Classics
+389,2017-08-10T15:00:39+00:00,law-and-order-special-victims-unit,176,406,0,0,Drama,False,False,False,4.622855997,18,260,show,582,NBC
+1603,2017-08-10T14:54:31+00:00,naruto-shippuden,16,597,0,0,Anime,False,False,False,4.400626276000001,9,10960,show,613,Viz Media
+23104,2017-08-10T15:20:19+00:00,seinfeld,63,171,0,0,Comedy,False,False,False,4.366506162,9,50020894,show,234,Sony Pictures Television
+2553,2017-08-10T15:51:53+00:00,modern-family,68,22,0,0,Comedy,False,False,False,4.6405570019999995,1,13628,show,90,ABC
+22416,2017-08-10T14:41:25+00:00,adventure-time,223,223,0,0,Kids,False,False,False,4.36580305,7,50020481,show,446,Cartoon Network
+77,2017-08-10T15:01:46+00:00,saturday-night-live,7073,370,0,0,Comedy,False,False,False,4.083795347,18,8765,show,7443,NBC
+11248,2017-08-10T14:58:23+00:00,the-mindy-project,23,107,0,0,Comedy,False,False,False,4.440965244,5,50007572,show,130,Hulu Original Series
+2505,2017-08-10T14:35:54+00:00,community,0,110,0,0,Comedy,False,False,False,4.583853327,6,12316,show,110,Sony Pictures Television
+2252,2017-08-10T15:23:19+00:00,greys-anatomy,155,24,0,0,Drama,False,False,False,4.462517355,1,11970,show,179,ABC
+58,2017-08-10T14:58:44+00:00,the-simpsons,405,21,0,0,Comedy,False,False,False,4.2592977869999995,1,392,show,426,FOX
+15137,2017-08-10T14:22:56+00:00,brooklyn-nine-nine,155,90,0,0,Comedy,False,False,False,4.525913142,4,50012564,show,245,FOX
+1968,2017-08-10T14:46:29+00:00,parks-and-recreation,1,123,0,0,Comedy,False,False,False,4.582548165,7,11549,show,124,NBC
+22015,2017-08-10T14:53:53+00:00,the-amazing-world-of-gumball,156,156,0,0,Kids,False,False,False,4.0158769560000005,4,50020274,show,312,Cartoon Network
+4910,2017-08-10T14:39:09+00:00,bobs-burgers,99,129,0,0,Animation and Cartoons,False,False,False,4.323962371,7,50001677,show,228,FOX
+7529,2017-08-10T14:55:15+00:00,new-girl,139,22,0,0,Comedy,False,False,False,4.5882924880000004,1,50004647,show,161,FOX
+2103,2017-08-10T15:56:52+00:00,glee,0,121,0,0,Drama,False,False,False,4.187489416,6,11725,show,121,FOX
+10,2017-08-10T15:46:57+00:00,bones,60,246,0,0,Drama,False,False,False,4.618597705,12,384,show,306,FOX
+11226,2017-08-10T14:40:14+00:00,nashville,426,107,0,0,Drama,False,False,False,4.424495117,5,50008475,show,533,CMT
+22278,2017-08-10T14:46:00+00:00,regular-show,220,217,0,0,Kids,False,False,False,4.061273937,7,50020482,show,437,Cartoon Network
+7555,2017-08-10T15:52:49+00:00,once-upon-a-time,135,22,0,0,Drama,False,False,False,4.715775889,1,50004389,show,157,ABC
+22881,2017-08-10T15:08:06+00:00,rick-and-morty,21,21,0,0,Animation and Cartoons,False,False,False,4.772879511,2,50020410,show,42,Adult Swim
+6341,2017-08-10T14:38:38+00:00,workaholics,69,86,0,0,Comedy,False,False,False,4.577148191,7,50003271,show,155,Comedy Central
+1318,2017-08-10T15:31:01+00:00,bleach,0,732,0,0,Anime,False,False,False,4.421983759,26,10374,show,732,Viz Media
+2138,2017-08-10T14:10:34+00:00,one-piece,4,747,0,0,Anime,False,False,False,4.146686058999999,11,11787,show,751,Toei Animation
+6290,2017-08-10T14:42:28+00:00,the-voice,1024,0,0,0,Reality and Game Shows,False,False,False,4.1234969,0,50003167,show,1024,NBC
+22638,2017-08-10T15:57:42+00:00,doc-mcstuffins,0,92,0,0,Animation and Cartoons,False,False,False,3.503616156,3,50020770,show,92,Disney Junior
+148,2017-08-10T15:03:40+00:00,hells-kitchen,1,0,0,0,Reality and Game Shows,False,False,False,4.05219787,0,15,show,1,FOX
+21027,2017-08-10T15:32:23+00:00,empire,200,48,0,0,Drama,False,False,False,4.57500889,3,50019341,show,248,FOX
+35,2017-08-10T14:43:49+00:00,its-always-sunny-in-philadelphia,8,123,0,0,Comedy,False,False,False,4.478408089,11,395,show,131,FXX
+150,2017-08-10T15:39:59+00:00,keeping-up-with-the-kardashians,683,181,0,0,Reality and Game Shows,False,False,False,3.2116053780000002,12,1101,show,864,E! Entertainment
+15094,2017-08-10T15:14:51+00:00,the-good-wife,1,156,0,0,Drama,False,False,False,4.560711786000001,7,50012096,show,157,CBS
+13844,2017-08-10T14:58:12+00:00,curious-george,0,108,0,0,Kids,False,False,False,3.578587476,9,50011225,show,108,Universal Television
+1304,2017-08-10T14:27:54+00:00,naruto,0,440,0,0,Anime,False,False,False,4.212936615,4,10348,show,440,Viz Media
+15360,2017-08-10T14:59:23+00:00,the-goldbergs,169,95,0,0,Comedy,False,False,False,4.384575644,4,50012945,show,264,ABC
+19738,2017-08-10T15:22:30+00:00,blackish,229,72,0,0,Comedy,False,False,False,4.23707817,3,50017742,show,301,ABC
+2259,2017-08-10T15:29:44+00:00,desperate-housewives,323,180,0,0,Drama,False,False,False,3.698476373,8,11971,show,503,ABC
+7889,2017-08-10T14:12:49+00:00,csi-crime-scene-investigation,0,337,0,0,Drama,False,False,False,4.496905704,16,50004835,show,337,USA
+3433,2017-08-10T15:04:59+00:00,archer,14,85,0,0,Animation and Cartoons,False,False,False,4.448908555,7,50000287,show,99,FXX
+16937,2017-08-10T14:21:23+00:00,broad-city,60,30,0,0,Comedy,False,False,False,4.642177106,3,50014621,show,90,Comedy Central
+8322,2017-08-10T15:43:43+00:00,americas-next-top-model,0,283,0,0,Reality and Game Shows,False,False,False,3.5413735789999996,22,50005389,show,283,CBS
+17312,2017-08-10T15:56:15+00:00,the-tonight-show-starring-jimmy-fallon,3442,18,0,0,Comedy,False,False,False,4.155577697,1,50014971,show,3460,NBC
+8898,2017-08-10T14:42:00+00:00,key-and-peele,96,53,0,0,Comedy,False,False,False,4.438184167,5,50006165,show,149,Comedy Central
+29524,2017-08-10T15:28:43+00:00,the-golden-girls,1,180,0,0,Classics,False,False,False,4.591255389,7,50027692,show,181,ABC Studios
+21721,2017-08-10T14:30:46+00:00,steven-universe,102,102,0,0,Comedy,False,False,False,4.416828893,3,50019892,show,204,Cartoon Network
+57,2017-08-10T15:12:13+00:00,kitchen-nightmares,1,92,0,0,Reality and Game Shows,False,False,False,4.019048561,6,23,show,93,FOX
+21985,2017-08-10T14:22:08+00:00,the-last-man-on-earth,65,48,0,0,Comedy,False,False,False,4.339346137,3,50020342,show,113,FOX
+5638,2017-08-10T14:38:02+00:00,yu-gi-oh,4,236,0,0,Anime,False,False,False,3.6746067410000003,5,50002567,show,240,4K Media
+23200,2017-08-10T15:10:16+00:00,elementary,1,120,0,0,Drama,False,False,False,4.574669187,5,50021483,show,121,CBS
+969,2017-08-10T15:37:26+00:00,americas-got-talent,171,12,0,0,Reality and Game Shows,False,False,False,3.335469442,1,240,show,183,NBC
+12844,2017-08-10T14:38:08+00:00,sabrina-the-teenage-witch,0,163,0,0,Family,False,False,False,3.905827813,7,50010208,show,163,CBS
+2458,2017-08-10T15:04:09+00:00,shark-tank,18,5,0,0,Reality and Game Shows,False,False,False,4.278262211,2,12191,show,23,ABC
+12138,2017-08-10T15:38:23+00:00,teenage-mutant-ninja-turtles,44,100,0,0,Kids,False,False,False,3.7796865110000004,4,50009406,show,144,Nickelodeon
+51,2017-08-10T14:13:00+00:00,arrested-development,249,53,0,0,Comedy,False,False,False,4.687830774,3,412,show,302,Fox Television Classics
+1861,2017-08-10T15:19:26+00:00,stargate-sg-1,0,214,0,0,Science Fiction,False,False,False,4.315301436,10,11387,show,214,MGM
+6901,2017-08-10T14:25:33+00:00,fairy-tail,0,349,0,0,Anime,False,False,False,4.520954045,8,50003897,show,349,Funimation
+177,2017-08-10T14:48:45+00:00,top-chef,1510,203,0,0,Reality and Game Shows,False,False,False,4.252735986999999,13,211,show,1713,Bravo
+9673,2017-08-10T15:14:17+00:00,scandal,167,5,0,0,Drama,False,False,False,4.711270845,1,50004665,show,172,ABC
+11217,2017-08-10T15:22:51+00:00,smallville,0,218,0,0,Drama,False,False,False,4.467553413,10,50008446,show,218,Warner Bros.
+7281,2017-08-10T15:24:45+00:00,grimm,44,5,0,0,Action and Adventure,False,False,False,4.600659796,1,50004356,show,49,NBC
+28409,2017-08-10T14:23:55+00:00,this-is-us,71,18,0,0,Drama,False,False,False,4.795632995,1,50026581,show,89,NBC
+4726,2017-08-10T14:53:58+00:00,masterchef,146,10,0,0,Food,False,False,False,4.217078235,1,50001553,show,156,FOX
+15896,2017-08-10T15:28:59+00:00,the-thundermans,0,69,0,0,Kids,False,False,False,4.024492557,3,50013405,show,69,Nickelodeon
+13482,2017-08-10T14:51:44+00:00,vikings,0,49,0,0,Action and Adventure,False,False,False,4.78311932,4,50010890,show,49,History
+4483,2017-08-10T15:21:42+00:00,pretty-little-liars,7,5,0,0,Drama,False,False,False,4.498914555,1,50001387,show,12,Freeform
+5725,2017-08-10T15:57:01+00:00,jersey-shore,33,74,0,0,Reality and Game Shows,False,False,False,3.5956574,6,50002718,show,107,MTV
+2440,2017-08-10T15:36:21+00:00,general-hospital,1052,10,0,0,Drama,False,False,False,3.8199223860000004,1,12154,show,1062,ABC
+24499,2017-08-10T14:46:12+00:00,blindspot,49,45,0,0,Drama,False,False,False,4.522517065,2,50022748,show,94,NBC
+6375,2017-08-10T15:18:57+00:00,happy-endings,139,57,0,0,Comedy,False,False,False,4.3547987610000005,3,50003196,show,196,Sony Pictures Television
+12666,2017-08-10T15:54:00+00:00,catfish-the-tv-show,78,77,0,0,Reality and Game Shows,False,False,False,4.198490154,5,50009956,show,155,MTV
+2526,2017-08-10T15:37:53+00:00,jimmy-kimmel-live,1605,16,0,0,News and Information,False,False,False,3.2966858460000004,1,12137,show,1621,ABC
+2295,2017-08-10T14:14:07+00:00,the-cleveland-show,0,88,0,0,Animation and Cartoons,False,False,False,3.621983592,4,11940,show,88,FOX
+183,2017-08-10T14:51:49+00:00,project-runway,163,88,0,0,Health and Wellness,False,False,False,3.884819104,6,2327,show,251,Lifetime
+12745,2017-08-10T14:41:30+00:00,survivor,0,319,0,0,Teen,False,False,False,4.002237913,21,50010097,show,319,CBS
+20608,2017-08-10T15:31:25+00:00,homeland,11,72,0,0,Drama,False,False,False,4.69207411,6,50018691,show,83,SHOWTIME
+7421,2017-08-10T14:32:49+00:00,awkward,93,89,0,0,Comedy,False,False,False,4.5081756760000005,5,50004434,show,182,MTV
+21869,2017-08-10T14:36:15+00:00,fresh-off-the-boat,31,60,0,0,Comedy,False,False,False,4.420029648,3,50020123,show,91,ABC
+7560,2017-08-10T14:52:51+00:00,last-man-standing,2,22,0,0,Comedy,False,False,False,4.375276496000001,1,50004659,show,24,ABC
+2473,2017-08-10T15:52:03+00:00,dancing-with-the-stars,31,0,0,0,Reality and Game Shows,False,False,False,3.242755018,0,12108,show,31,ABC
+1504,2017-08-10T15:11:19+00:00,reba,0,90,0,0,Comedy,False,False,False,4.123555575,4,10457,show,90,Fox Television Classics
+4412,2017-08-10T15:14:28+00:00,the-bachelorette,155,5,0,0,Reality and Game Shows,False,False,False,3.07734047,1,50001229,show,160,ABC
+3708,2017-08-10T14:17:26+00:00,the-bachelor,320,0,0,0,Reality and Game Shows,False,False,False,2.927638092,0,50000555,show,320,ABC
+2624,2017-08-10T15:52:37+00:00,the-middle,43,5,0,0,Comedy,False,False,False,4.263395482,1,50000015,show,48,ABC
+25839,2017-08-10T15:26:08+00:00,superstore,33,22,0,0,Comedy,False,False,False,4.441192282,1,50024167,show,55,NBC
+15138,2017-08-10T14:44:38+00:00,sleepy-hollow,48,62,0,0,Drama,False,False,False,4.566322227,4,50012415,show,110,FOX
+11258,2017-08-10T14:25:40+00:00,chicago-fire,65,5,0,0,Drama,False,False,False,4.6325614999999996,1,50008679,show,70,NBC
+2313,2017-08-10T14:55:34+00:00,private-practice,246,111,0,0,Drama,False,False,False,4.230377343,6,11993,show,357,ABC
+26058,2017-08-10T14:21:42+00:00,lucifer,33,31,0,0,Drama,False,False,False,4.630420254,2,50024373,show,64,FOX
+1201,2017-08-10T15:08:52+00:00,the-oc,3,92,0,0,Drama,False,False,False,4.054741305,4,10447,show,95,Warner Bros.
+14027,2017-08-10T15:16:12+00:00,inside-amy-schumer,79,39,0,0,Comedy,False,False,False,3.750503665,4,50011432,show,118,Comedy Central
+19145,2017-08-10T15:36:38+00:00,rizzoli-and-isles,0,105,0,0,Drama,False,False,False,4.433746548999999,7,50017123,show,105,TNT
+25243,2017-08-10T15:57:25+00:00,rugrats,0,166,0,0,Animation and Cartoons,False,False,False,3.849742615,9,50023599,show,166,Nickelodeon
+18114,2017-08-10T15:52:40+00:00,blue-bloods,0,155,0,0,Drama,False,False,False,4.551720635,7,50015630,show,155,CBS
+15054,2017-08-10T15:54:24+00:00,rabbids-invasion,0,52,0,0,Animation and Cartoons,False,False,False,3.433965658,2,50012572,show,52,Nickelodeon
+12867,2017-08-10T14:55:06+00:00,frasier,0,264,0,0,Comedy,False,False,False,4.252930323,11,50009965,show,264,CBS
+28109,2017-08-10T15:45:52+00:00,gravity-falls,1,40,0,0,Animation and Cartoons,False,False,False,4.598782733,2,50026182,show,41,Disney XD
+11266,2017-08-10T14:10:02+00:00,mistresses-us,1,52,0,0,Drama,False,False,False,4.28725664,4,50008691,show,53,ABC
+19289,2017-08-10T14:40:04+00:00,gotham,120,5,0,0,Drama,False,False,False,4.613357996,1,50017347,show,125,FOX
+2324,2017-08-10T14:50:37+00:00,inuyasha,1,334,0,0,Anime,False,False,False,4.325406635,7,12039,show,335,Viz Media
+23481,2017-08-10T16:07:33+00:00,clarence,77,77,0,0,Animation and Cartoons,False,False,False,3.34723817,2,50021821,show,154,Cartoon Network
+20977,2017-08-10T15:32:18+00:00,drake-and-josh,0,47,0,0,Kids,False,False,False,3.9418955660000004,4,50018838,show,47,Nickelodeon
+20969,2017-08-10T15:49:06+00:00,hey-arnold,0,99,0,0,Animation and Cartoons,False,False,False,4.098780423,5,50019171,show,99,Nickelodeon
+14114,2017-08-10T16:01:12+00:00,east-los-high,34,60,0,0,Drama,False,False,False,4.15686925,4,50011523,show,94,Hulu Original Series
+1349,2017-08-10T15:46:19+00:00,sesame-street,7,60,0,0,Kids,False,False,False,3.363741534,3,10360,show,67,Sesame Street
+23170,2017-08-10T15:30:25+00:00,casual,20,36,0,0,Comedy,False,False,False,4.536517228,3,50021539,show,56,Hulu Original Series
+16720,2017-08-10T15:44:45+00:00,chicago-pd,66,23,0,0,Drama,False,False,False,4.549655876,1,50013863,show,89,NBC
+22751,2017-08-10T16:09:27+00:00,ready-steady-wiggle,0,104,0,0,Kids,False,False,False,2.193160087,2,50020886,show,104,Australian Broadcasting Corporation
